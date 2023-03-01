@@ -156,11 +156,11 @@ while ( true ) {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/math/base/special/ceil10`][@stdlib/math/base/special/ceil10]</span><span class="delimiter">: </span><span class="description">round a numeric value to the nearest power of 10 toward positive infinity.</span>
--   <span class="package-name">[`@stdlib/math/iter/special/ceil`][@stdlib/math/iter/special/ceil]</span><span class="delimiter">: </span><span class="description">create an iterator which rounds each iterated value toward positive infinity.</span>
--   <span class="package-name">[`@stdlib/math/iter/special/ceil2`][@stdlib/math/iter/special/ceil2]</span><span class="delimiter">: </span><span class="description">create an iterator which rounds each iterated value to the nearest power of two toward positive infinity.</span>
--   <span class="package-name">[`@stdlib/math/iter/special/floor10`][@stdlib/math/iter/special/floor10]</span><span class="delimiter">: </span><span class="description">create an iterator which rounds each iterated value to the nearest power of 10 toward negative infinity.</span>
--   <span class="package-name">[`@stdlib/math/iter/special/round10`][@stdlib/math/iter/special/round10]</span><span class="delimiter">: </span><span class="description">create an iterator which rounds each iterated value to the nearest power of 10 on a linear scale.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/ceil10`][@stdlib/math/base/special/ceil10]</span><span class="delimiter">: </span><span class="description">round a numeric value to the nearest power of 10 toward positive infinity.</span>
+-   <span class="package-name">[`@stdlib/math-iter/special/ceil`][@stdlib/math/iter/special/ceil]</span><span class="delimiter">: </span><span class="description">create an iterator which rounds each iterated value toward positive infinity.</span>
+-   <span class="package-name">[`@stdlib/math-iter/special/ceil2`][@stdlib/math/iter/special/ceil2]</span><span class="delimiter">: </span><span class="description">create an iterator which rounds each iterated value to the nearest power of two toward positive infinity.</span>
+-   <span class="package-name">[`@stdlib/math-iter/special/floor10`][@stdlib/math/iter/special/floor10]</span><span class="delimiter">: </span><span class="description">create an iterator which rounds each iterated value to the nearest power of 10 toward negative infinity.</span>
+-   <span class="package-name">[`@stdlib/math-iter/special/round10`][@stdlib/math/iter/special/round10]</span><span class="delimiter">: </span><span class="description">create an iterator which rounds each iterated value to the nearest power of 10 on a linear scale.</span>
 
 </section>
 
